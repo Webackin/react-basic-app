@@ -1,1 +1,1 @@
-# react-basic-app
+# tic-tac-toe-game
